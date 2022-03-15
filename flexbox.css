@@ -1,0 +1,30 @@
+body {
+  border: black ridge;
+  margin: 10px;
+  width: 98%;
+  height: 1000px;%;
+}
+section {
+  border: black ridge;
+  margin: 10px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+li {
+  list-style-type: none;
+  padding: 15px;
+  margin: 15px;
+}
+picture{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 80%;
+}
